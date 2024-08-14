@@ -1,0 +1,20 @@
+{
+  "Products": [
+    {
+      "id": "537b",
+      "name": "juan",
+      "email": "juan@gmail.com",
+      "date": "2005-09-26",
+      "password": "U2FsdGVkX18wCeR7YZnk1nFSe3LeV3JJ0bHeK6MNBnU=",
+      "role": "1"
+    },
+    {
+      "id": "4c59",
+      "name": "juan",
+      "email": "juan1@gmail.com",
+      "date": "2005-09-26",
+      "password": "U2FsdGVkX18NkLD7T6l1ZGBb0ljt8/ZU0fAviFYEG28=",
+      "role": "2"
+    }
+  ]
+}
